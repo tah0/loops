@@ -1,0 +1,8 @@
+*.html
+*.flac
+*.mp3
+*.pdf
+*.csv
+loops_scratch.ipynb
+animation_test.ipynb
+.ipynb_checkpoints*
